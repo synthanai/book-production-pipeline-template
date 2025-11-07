@@ -6,8 +6,8 @@
   },
   "pipeline": {
     "overall_completion": 0,
-    "current_phase": 1,
-    "current_phase_name": "Ideation",
+    "current_phase": 5,
+    "current_phase_name": "Text",
     "phases_complete": 0,
     "phases_remaining": 9,
     "critical_path_blocker": "None - Project ready to begin"
@@ -35,7 +35,9 @@
         "total": 4,
         "complete": 0
       },
-      "blockers": ["Phase 1 exit gate not passed"]
+      "blockers": [
+        "Phase 1 exit gate not passed"
+      ]
     },
     "phase_3": {
       "name": "Preparation",
@@ -47,7 +49,9 @@
         "total": 6,
         "complete": 0
       },
-      "blockers": ["Phase 2 exit gate not passed"]
+      "blockers": [
+        "Phase 2 exit gate not passed"
+      ]
     },
     "phase_4": {
       "name": "Utilities",
@@ -59,7 +63,9 @@
         "total": 5,
         "complete": 0
       },
-      "blockers": ["Phase 3 exit gate not passed"]
+      "blockers": [
+        "Phase 3 exit gate not passed"
+      ]
     },
     "phase_5": {
       "name": "Text Production",
@@ -77,7 +83,9 @@
         "chapters_validated": 0,
         "chapters_flagged": 0
       },
-      "blockers": ["Phase 4 exit gate not passed"]
+      "blockers": [
+        "Phase 4 exit gate not passed"
+      ]
     },
     "phase_6": {
       "name": "Audio Production",
@@ -89,7 +97,9 @@
         "total": 6,
         "complete": 0
       },
-      "blockers": ["Phase 5 exit gate not passed"],
+      "blockers": [
+        "Phase 5 exit gate not passed"
+      ],
       "optional": true
     },
     "phase_7": {
@@ -102,7 +112,9 @@
         "total": 0,
         "complete": 0
       },
-      "blockers": ["Phase 5 exit gate not passed"],
+      "blockers": [
+        "Phase 5 exit gate not passed"
+      ],
       "optional": true
     },
     "phase_8": {
@@ -115,7 +127,9 @@
         "total": 8,
         "complete": 0
       },
-      "blockers": ["Phase 5 exit gate not passed"]
+      "blockers": [
+        "Phase 5 exit gate not passed"
+      ]
     },
     "phase_9": {
       "name": "Marketing",
@@ -127,7 +141,9 @@
         "total": 10,
         "complete": 0
       },
-      "blockers": ["Phase 8 entry criteria not met"]
+      "blockers": [
+        "Phase 8 entry criteria not met"
+      ]
     }
   },
   "stage_gates": {
