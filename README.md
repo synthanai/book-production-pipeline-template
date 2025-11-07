@@ -70,34 +70,95 @@ Sequential phases that show clear production flow:
 
 ### Starting a New Book Project
 
-1. **Copy the template**
+**⚡ Quick Start (Recommended):**
+
+1. **Clean the template** (removes example data)
    ```bash
-   cp -r TEMPLATE "My-New-Book"
+   bash operations/pipeline/scripts/cleanup-synthai-examples.sh
    ```
 
-2. **Customize the structure**
-   - Update README files with your book's specifics
-   - Delete unused subdirectories if needed
-   - Add custom folders as required
+2. **Read the quick start guide**
+   - [TEMPLATE-USAGE-QUICK-START.md](TEMPLATE-USAGE-QUICK-START.md) - 5-minute overview
+
+3. **Customize for your book** (15 minutes)
+   - Set project name in `metrics-summary.json`
+   - Define chapter structure in `5-text/`
+   - Create chapter outline in `3-preparation/blueprints/`
+
+4. **Start Phase 1** (begin work)
+   ```bash
+   cd operations/pipeline/scripts
+   ./get-manual-tasks.sh 1  # See what to do first
+   ```
+
+**📚 Detailed Guides:**
+- [TEMPLATE-CLEANUP-GUIDE.md](TEMPLATE-CLEANUP-GUIDE.md) - Complete cleanup instructions
+- [operations/pipeline/scripts/README.md](operations/pipeline/scripts/README.md) - Script documentation
+- [PIPELINE-STATUS-DASHBOARD.md](operations/pipeline/PIPELINE-STATUS-DASHBOARD.md) - Track progress
+
+---
+
+### Understanding This Template
+
+**This repository contains:**
+- ✅ **Template structure** - Empty framework for any book
+- ✅ **SYNTHAI examples** - Populated examples showing template usage
+
+**SYNTHAI** is example data (fictional book about AI ethics) demonstrating:
+- What completed phases look like
+- How validation reports are formatted
+- Realistic progress metrics
+- Example decisions and gate passages
+
+**To use:** Study SYNTHAI examples to learn, then clean and replace with your data.
+
+---
+
+### Alternative: Manual Setup
+
+If you prefer manual control:
+
+1. **Copy the template**
+   ```bash
+   cp -r book-production-pipeline-template "My-New-Book"
+   cd "My-New-Book"
+   ```
+
+2. **Remove example files**
+   - Delete files with `-EXAMPLE` suffix
+   - Remove SYNTHAI sections from documentation
+   - Reset metrics to 0% (see cleanup guide)
 
 3. **Follow the pipeline sequence**
-   - Start with 1-ideation (concept development)
-   - Progress through 2-research (market analysis)
-   - Build 3-preparation docs (world-building, characters)
-   - Create 4-utilities (your custom tools/templates)
-   - Write in 5-text (chapters)
-   - Produce 6-audio (audiobook)
-   - Create 7-video (marketing videos)
-   - Publish via 8-publication (formats)
-   - Promote via 9-marketing (campaigns)
+   - Phase 1: Ideation (concept development)
+   - Phase 2: Research (market analysis)
+   - Phase 3: Preparation (world-building, characters)
+   - Phase 4: Utilities (templates, prompts, tools)
+   - Phase 5: Text (write manuscript) ← Longest phase
+   - Phase 6: Audio (audiobook production, optional)
+   - Phase 7: Video (marketing videos, optional)
+   - Phase 8: Publication (publish the book)
+   - Phase 9: Marketing (promotional campaigns)
 
-### Key Files to Customize
+---
 
-Each directory contains a README.md explaining:
-- **Purpose** - What this directory is for
-- **Contents** - What files belong here
-- **Examples** - Sample files or structures
-- **Guidelines** - Best practices for using the directory
+### Key Files to Understand
+
+**Getting Started:**
+- [TEMPLATE-USAGE-QUICK-START.md](TEMPLATE-USAGE-QUICK-START.md) - Start here
+- [TEMPLATE-CLEANUP-GUIDE.md](TEMPLATE-CLEANUP-GUIDE.md) - Remove examples
+
+**Operations:**
+- [operations/pipeline/PIPELINE-STATUS-DASHBOARD.md](operations/pipeline/PIPELINE-STATUS-DASHBOARD.md) - Your single source of truth
+- [operations/pipeline/STAGE-GATES-REFERENCE.md](operations/pipeline/STAGE-GATES-REFERENCE.md) - All 45 gates
+- [operations/QA-System/QA-System-Complete-Reference.md](operations/QA-System/QA-System-Complete-Reference.md) - Quality framework
+
+**Phase Tracking:**
+- Each directory contains README.md files explaining:
+  - **Purpose** - What this phase is for
+  - **Deliverables** - What to produce
+  - **Entry/Exit Criteria** - When to start/finish
+  - **AI vs Manual Tasks** - What needs Claude vs. independent work
 
 ---
 
