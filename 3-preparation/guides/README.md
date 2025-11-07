@@ -89,7 +89,7 @@ For each guide:
 
 ## 📝 Example Guides
 
-### For Business Fiction (like SYNTHAI)
+### For Business Fiction
 - Guide-Writing-Excellence.md (90K words)
 - Guide-Character-Portrayal.md (60K words)
 - Guide-Dialogue-Standards.md (45K words)

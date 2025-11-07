@@ -150,7 +150,7 @@ The **metrics/** directory contains tracking templates for:
 
 ## 📚 Example Use Cases
 
-### Business Fiction (like SYNTHAI)
+### Business Fiction
 - Heavy 3-preparation/ (world-building, frameworks)
 - Extensive 2-research/ (industry research, comp titles)
 - Detailed 9-marketing/ (whitepapers, LinkedIn, Substack)

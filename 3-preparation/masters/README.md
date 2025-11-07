@@ -99,7 +99,7 @@ Master documents should be updated:
 
 ## 📝 Example Master Documents
 
-### For Business Fiction (like SYNTHAI)
+### For Business Fiction
 - Master-Story-Blueprint.md (150K words)
 - Master-Character-Guide.md (120K words)
 - Master-World-Guide-Chennai-IT.md (100K words)

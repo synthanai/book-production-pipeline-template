@@ -160,7 +160,7 @@ Metrics pulls data from:
 - operations/validation/ (quality metrics)
 - Pipeline directories (completion status)
 
-**Flow:**
+**Workflow:**
 1. Work happens in operations/ and pipeline directories
 2. Session data tracked in operations/current/
 3. High-level metrics aggregated in metrics/
@@ -170,7 +170,7 @@ Metrics pulls data from:
 
 ## 🎯 Example Metrics
 
-### For SYNTHAI (Business Fiction)
+### For Business Fiction Example
 - 28 preparation documents (3-preparation/)
 - 21 chapters (5-text/chapters/)
 - 4 acts (structural organization)

@@ -83,7 +83,7 @@ For each quality framework:
 
 ## 📝 Example Quality Frameworks
 
-### For Business Fiction (like SYNTHAI)
+### For Business Fiction
 - **Framework-Validation-Comprehensive.md** (45K words)
   - 50+ validation dimensions
   - Multi-tier validation (Pass 1, Pass 2, NQ)

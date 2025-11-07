@@ -81,7 +81,7 @@ For each reference document:
 
 ## 📝 Example References
 
-### For Business Fiction (like SYNTHAI)
+### For Business Fiction
 - **Reference-Character-Sheet.md** (5K words)
   - All 4 protagonists quick facts
   - Supporting cast summary
@@ -93,10 +93,10 @@ For each reference document:
   - Address/neighborhood
   - Atmosphere notes
 
-- **Reference-SYNTHAI-Framework.md** (4K words)
-  - Five practices overview
+- **Reference-Framework.md** (4K words)
+  - Framework overview
   - Quick definitions
-  - Framework terminology
+  - Key terminology
 
 ### For Fantasy
 - Reference-Magic-System.md
@@ -127,12 +127,12 @@ For each reference document:
 ```markdown
 # Reference: Framework Terms
 
-## SYNTHAI
+## Framework Name
 - **Definition:** System for organizational transformation
 - **Components:** 5 practices
-- **Level:** Organizational consciousness
+- **Level:** Organizational intelligence
 
-## SUPPORT
+## Practice One
 - **Definition:** First practice...
 - **Key Principle:** ...
 ```
