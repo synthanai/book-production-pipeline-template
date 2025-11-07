@@ -22,12 +22,12 @@ Architecture documents define the structural frameworks, systems, and patterns t
 - Theoretical foundations
 - Pattern specifications
 
-### Organizational Dynamics
+### System Dynamics
 - How systems evolve
 - Interaction patterns
 - Change mechanisms
 - Feedback loops
-- Transformation processes
+- Progression processes
 
 ### Narrative Architecture
 - Story structure specifications
@@ -75,15 +75,15 @@ For each architecture document:
 
 ## 📝 Example Architecture Documents
 
-### For Business Fiction
+### For Fiction with Framework/System
 - Architecture-Framework-Specs.md (100K words)
   - Framework components
-  - Core practices specification
-  - Transformation levels
-- Architecture-Organizational-Dynamics.md (40K words)
-  - How organizations evolve
+  - Core elements specification
+  - Progression levels
+- Architecture-System-Dynamics.md (40K words)
+  - How systems evolve
   - Change patterns
-  - Transformation mechanics
+  - Development mechanics
 - Architecture-Narrative-Structure.md (50K words)
   - Four-act structure
   - Chapter patterns
@@ -139,7 +139,7 @@ Guides reference architectures for standards:
 - Multiple interconnected components
 - Patterns that repeat throughout book
 - Theoretical models to specify
-- Organizational structures to define
+- System structures to define
 
 ### Skip if:
 - Simple, linear narrative

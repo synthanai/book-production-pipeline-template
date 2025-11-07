@@ -25,7 +25,7 @@ This is the most comprehensive phase for many projects. Here you create all the 
 ### Tier 2: Structural Specifications
 **[architectures/](architectures/)** - Architectural frameworks
 - Framework specifications
-- Organizational dynamics
+- System dynamics
 - Narrative structure
 
 **[blueprints/](blueprints/)** - Act-level blueprints
@@ -180,8 +180,8 @@ Track in: [../metrics/trackers/PREP-PHASE-TRACKER.md](../metrics/trackers/PREP-P
 
 ### Go deep if:
 - Complex world-building (fantasy, sci-fi)
-- Business fiction with frameworks
-- Non-fiction with multiple systems
+- Fiction with integrated frameworks/systems
+- Non-fiction with multiple concepts
 - Series planning (multi-book)
 - Detailed historical fiction
 

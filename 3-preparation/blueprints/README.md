@@ -82,18 +82,18 @@ For each blueprint:
 
 ## 📝 Example Blueprints
 
-### For Business Fiction
+### For Fiction with Framework/System
 - **Blueprint-Act-I.md** (40K words)
   - Chapters 1-6
-  - Organizational crisis establishment
+  - Story setup and inciting incident
   - Character introductions
   - Framework foundation
 
 - **Blueprint-Act-II.md** (45K words)
   - Chapters 7-12
-  - Transformation begins
+  - Rising action begins
   - Conflicts escalate
-  - Practice implementation
+  - Framework application
 
 - **Blueprint-Act-III.md** (40K words)
   - Chapters 13-17
@@ -103,8 +103,8 @@ For each blueprint:
 
 - **Blueprint-Act-IV.md** (35K words)
   - Chapters 18-21
-  - Resolution
-  - Transformation complete
+  - Climax and resolution
+  - Character arcs complete
   - Framework integration
 
 ### For Non-Fiction

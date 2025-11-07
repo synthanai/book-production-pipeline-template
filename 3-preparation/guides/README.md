@@ -89,16 +89,14 @@ For each guide:
 
 ## 📝 Example Guides
 
-### For Business Fiction
+### For Fiction with Framework/System
 - Guide-Writing-Excellence.md (90K words)
 - Guide-Character-Portrayal.md (60K words)
 - Guide-Dialogue-Standards.md (45K words)
 - Guide-Scene-Construction.md (55K words)
-- Guide-Business-Implementation.md (30K words)
-- Guide-Three-Level-Progression.md (35K words)
-- Guide-Tamil-Language-Usage.md (20K words)
-- Guide-Chennai-Authenticity.md (25K words)
 - Guide-Framework-Integration.md (40K words)
+- Guide-Progression-Structure.md (35K words)
+- Guide-Setting-Authenticity.md (25K words)
 - Guide-Tension-and-Conflict.md (50K words)
 
 ### For Non-Fiction

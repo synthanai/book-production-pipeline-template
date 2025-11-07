@@ -81,16 +81,16 @@ For each reference document:
 
 ## 📝 Example References
 
-### For Business Fiction
+### For Fiction with Framework/System
 - **Reference-Character-Sheet.md** (5K words)
-  - All 4 protagonists quick facts
+  - Protagonist quick facts
   - Supporting cast summary
   - Relationships table
   - Speech patterns
 
-- **Reference-Chennai-Locations.md** (3K words)
+- **Reference-Locations.md** (3K words)
   - Key locations table
-  - Address/neighborhood
+  - Setting details
   - Atmosphere notes
 
 - **Reference-Framework.md** (4K words)
@@ -119,8 +119,8 @@ For each reference document:
 
 | Character | Age | Role | Key Trait | Speech Pattern |
 |-----------|-----|------|-----------|----------------|
-| Maya      | 34  | CEO  | Pragmatic | Direct, concise |
-| Arjun     | 29  | Dev  | Idealistic| Thoughtful, measured |
+| Maya      | 34  | Leader | Pragmatic | Direct, concise |
+| Arjun     | 29  | Specialist | Idealistic| Thoughtful, measured |
 ```
 
 ### List Format
@@ -128,22 +128,22 @@ For each reference document:
 # Reference: Framework Terms
 
 ## Framework Name
-- **Definition:** System for organizational transformation
-- **Components:** 5 practices
-- **Level:** Organizational intelligence
+- **Definition:** Core system or methodology
+- **Components:** Key elements
+- **Application:** How it's used
 
-## Practice One
-- **Definition:** First practice...
+## Element One
+- **Definition:** First element...
 - **Key Principle:** ...
 ```
 
 ### Quick Facts Format
 ```markdown
-# Reference: Location - T. Nagar
+# Reference: Location - Market District
 
-**Neighborhood:** Central Chennai
+**Area:** Central City
 **Atmosphere:** Busy commercial district
-**Key Details:** Jewelry shops, Pondy Bazaar
+**Key Details:** Shops, markets, cultural landmarks
 **Story Use:** Chapters 4, 9, 14
 ```
 

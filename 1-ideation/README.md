@@ -44,12 +44,12 @@ This is where your book begins—raw ideas, initial concepts, character sketches
 
 ## 📝 Example Files
 
-### For Business Fiction
+### For Fiction with Framework/System
 - `framework-concept-notes.md` (~10-20K words)
 - `character-sketches.md`
 - `story-arc-ideas.md`
-- `setting-research-chennai.md`
-- `organizational-transformation-concepts.md`
+- `setting-research.md`
+- `core-concepts.md`
 - `market-positioning-ideas.md`
 
 ### For Non-Fiction

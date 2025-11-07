@@ -99,10 +99,10 @@ Master documents should be updated:
 
 ## 📝 Example Master Documents
 
-### For Business Fiction
+### For Fiction with Framework/System
 - Master-Story-Blueprint.md (150K words)
 - Master-Character-Guide.md (120K words)
-- Master-World-Guide-Chennai-IT.md (100K words)
+- Master-World-Guide.md (100K words)
 - Master-Validation-Checklist.md (80K words)
 
 ### For Non-Fiction

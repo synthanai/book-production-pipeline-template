@@ -47,13 +47,13 @@ This phase transforms your ideas (from Phase 1) into evidence-based concepts thr
 
 ## 📝 Example Files
 
-### For Business Fiction
-- `organizational-transformation-literature-review.md`
-- `comp-title-analysis.md` (The Goal, Phoenix Project, etc.)
-- `chennai-cultural-research.md` (Tamil language, neighborhoods)
-- `it-services-industry-research.md`
-- `academic-backing-org-learning.md`
-- `business-fiction-genre-research.md`
+### For Fiction with Framework/System
+- `topic-literature-review.md`
+- `comp-title-analysis.md`
+- `setting-research.md`
+- `industry-research.md`
+- `academic-sources.md`
+- `genre-research.md`
 
 ### For Non-Fiction
 - `topic-literature-review.md`
@@ -85,9 +85,9 @@ This phase transforms your ideas (from Phase 1) into evidence-based concepts thr
 ### By Topic
 ```
 2-research/
-├── organizational-theory/
-├── chennai-culture/
-├── business-fiction-genre/
+├── core-concepts/
+├── setting-culture/
+├── genre-study/
 └── market-positioning/
 ```
 
