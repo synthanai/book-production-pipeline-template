@@ -170,7 +170,6 @@ Metrics pulls data from:
 
 ## 🎯 Example Metrics
 
-### For SYNTHAI (Business Fiction)
 - 28 preparation documents (3-preparation/)
 - 21 chapters (5-text/chapters/)
 - 4 acts (structural organization)

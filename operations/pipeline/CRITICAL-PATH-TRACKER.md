@@ -54,7 +54,6 @@ Phase 9: Marketing (Ongoing)
 
 ---
 
-## 🔍 Example: Critical Path Analysis (SYNTHAI Project)
 
 > **Note:** This is an example from a completed project to demonstrate how the critical path tracker works in practice. Your project will have its own unique path and blockers.
 

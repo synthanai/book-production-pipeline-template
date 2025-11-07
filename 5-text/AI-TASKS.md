@@ -185,7 +185,6 @@
 
 ---
 
-## 📝 Example: SYNTHAI Project
 
 **AI Task Completion (Phase 5):**
 - ✅ All 21 chapters drafted with AI assistance (73 hours)

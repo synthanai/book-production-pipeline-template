@@ -44,7 +44,6 @@ This is where your book begins—raw ideas, initial concepts, character sketches
 
 ## 📝 Example Files
 
-### For Business Fiction (like SYNTHAI)
 - `framework-concept-notes.md` (~10-20K words)
 - `character-sketches.md`
 - `story-arc-ideas.md`

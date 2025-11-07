@@ -74,7 +74,6 @@ Sequential phases that show clear production flow:
 
 1. **Clean the template** (removes example data)
    ```bash
-   bash operations/pipeline/scripts/cleanup-synthai-examples.sh
    ```
 
 2. **Read the quick start guide**
@@ -102,15 +101,12 @@ Sequential phases that show clear production flow:
 
 **This repository contains:**
 - ✅ **Template structure** - Empty framework for any book
-- ✅ **SYNTHAI examples** - Populated examples showing template usage
 
-**SYNTHAI** is example data (fictional book about AI ethics) demonstrating:
 - What completed phases look like
 - How validation reports are formatted
 - Realistic progress metrics
 - Example decisions and gate passages
 
-**To use:** Study SYNTHAI examples to learn, then clean and replace with your data.
 
 ---
 
@@ -126,7 +122,6 @@ If you prefer manual control:
 
 2. **Remove example files**
    - Delete files with `-EXAMPLE` suffix
-   - Remove SYNTHAI sections from documentation
    - Reset metrics to 0% (see cleanup guide)
 
 3. **Follow the pipeline sequence**
@@ -211,7 +206,6 @@ The **metrics/** directory contains tracking templates for:
 
 ## 📚 Example Use Cases
 
-### Business Fiction (like SYNTHAI)
 - Heavy 3-preparation/ (world-building, frameworks)
 - Extensive 2-research/ (industry research, comp titles)
 - Detailed 9-marketing/ (whitepapers, LinkedIn, Substack)

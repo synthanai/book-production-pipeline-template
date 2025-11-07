@@ -113,7 +113,6 @@
 
 ---
 
-## 📝 Example: SYNTHAI Project
 
 **Deliverable Status (2025-11-07):**
 

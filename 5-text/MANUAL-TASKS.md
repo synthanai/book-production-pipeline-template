@@ -202,7 +202,6 @@ These tasks MUST be completed before Phase 5 can exit:
 **Status:** ⏸ Not Started
 
 **What to do:**
-1. Add chapter markers (e.g., "Chapter 1: The Offering")
 2. Remove comments, track changes, extraneous formatting
 3. Clean paragraph spacing (consistent throughout)
 4. Create table of contents (if needed)
@@ -237,7 +236,6 @@ These tasks MUST be completed before Phase 5 can exit:
 
 ---
 
-## 📝 Example: SYNTHAI Project
 
 **Manual Task Status:**
 

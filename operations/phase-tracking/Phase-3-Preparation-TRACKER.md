@@ -133,7 +133,6 @@
 - [ ] No major gaps or contradictions in preparation docs
 - [ ] Feel confident you can start writing without constant backtracking
 
-**Example (SYNTHAI - Extensive Preparation):**
 - 28 master documents
 - ~1.4M words of preparation
 - Detailed character profiles, world-building, frameworks
@@ -182,7 +181,6 @@
 - **Standard:** 50,000-100,000 words (detailed profiles, chapter outlines, research)
 - **Extensive:** 100,000+ words (deep world-building, frameworks, comprehensive research)
 
-Most books need standard preparation. Extensive preparation (like SYNTHAI) is for complex projects with intricate worlds or frameworks.
 
 ---
 

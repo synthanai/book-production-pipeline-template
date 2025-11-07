@@ -106,22 +106,6 @@
 
 ---
 
-## 📝 Example: SYNTHAI Project
-
-**Entry criteria status on 2025-06-15:**
-
-- [x] **Templates ready** ✅ - Chapter template tested with sample
-- [x] **Prompts prepared** ✅ - 5 core prompts documented and tested
-- [x] **Quality frameworks** ✅ - Pass 1 (148D) and Pass 2 (NQ) defined
-- [x] **Chapter structure** ✅ - 21 chapters across 4 acts fully outlined
-- [x] **Writing schedule** ✅ - 16-week plan, 1.5 chapters/week target
-
-**Result:** ✅ Phase 5 ENTRY GATE PASSED - Ready to begin writing
-
-**Action:** Created gate passage record in `operations/validation/gate-validation/phase-5-entry-passed.md`
-
----
-
 ## 🔗 Related Documents
 
 - [Phase 4 Tracker](../operations/phase-tracking/Phase-4-Utilities-TRACKER.md) - Previous phase

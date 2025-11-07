@@ -1,0 +1,238 @@
+{
+  "project": {
+    "name": "Book Production Pipeline",
+    "last_updated": "2025-11-07T00:00:00Z",
+    "pipeline_version": "1.0"
+  },
+  "pipeline": {
+    "overall_completion": 0,
+    "current_phase": 5,
+    "current_phase_name": "Text",
+    "phases_complete": 0,
+    "phases_remaining": 9,
+    "critical_path_blocker": "None - Project ready to begin"
+  },
+  "phases": {
+    "phase_1": {
+      "name": "Ideation",
+      "status": "NOT_STARTED",
+      "entry_gate_passed": false,
+      "exit_gate_passed": false,
+      "completion_percentage": 0,
+      "deliverables": {
+        "total": 5,
+        "complete": 0
+      },
+      "blockers": []
+    },
+    "phase_2": {
+      "name": "Research",
+      "status": "BLOCKED",
+      "entry_gate_passed": false,
+      "exit_gate_passed": false,
+      "completion_percentage": 0,
+      "deliverables": {
+        "total": 4,
+        "complete": 0
+      },
+      "blockers": [
+        "Phase 1 exit gate not passed"
+      ]
+    },
+    "phase_3": {
+      "name": "Preparation",
+      "status": "BLOCKED",
+      "entry_gate_passed": false,
+      "exit_gate_passed": false,
+      "completion_percentage": 0,
+      "deliverables": {
+        "total": 6,
+        "complete": 0
+      },
+      "blockers": [
+        "Phase 2 exit gate not passed"
+      ]
+    },
+    "phase_4": {
+      "name": "Utilities",
+      "status": "BLOCKED",
+      "entry_gate_passed": false,
+      "exit_gate_passed": false,
+      "completion_percentage": 0,
+      "deliverables": {
+        "total": 5,
+        "complete": 0
+      },
+      "blockers": [
+        "Phase 3 exit gate not passed"
+      ]
+    },
+    "phase_5": {
+      "name": "Text Production",
+      "status": "BLOCKED",
+      "entry_gate_passed": false,
+      "exit_gate_passed": false,
+      "completion_percentage": 0,
+      "deliverables": {
+        "total": 21,
+        "complete": 0
+      },
+      "quality_metrics": {
+        "avg_nq_score": null,
+        "threshold": 4.5,
+        "chapters_validated": 0,
+        "chapters_flagged": 0
+      },
+      "blockers": [
+        "Phase 4 exit gate not passed"
+      ]
+    },
+    "phase_6": {
+      "name": "Audio Production",
+      "status": "BLOCKED",
+      "entry_gate_passed": false,
+      "exit_gate_passed": false,
+      "completion_percentage": 0,
+      "deliverables": {
+        "total": 6,
+        "complete": 0
+      },
+      "blockers": [
+        "Phase 5 exit gate not passed"
+      ],
+      "optional": true
+    },
+    "phase_7": {
+      "name": "Video Production",
+      "status": "BLOCKED",
+      "entry_gate_passed": false,
+      "exit_gate_passed": false,
+      "completion_percentage": 0,
+      "deliverables": {
+        "total": 0,
+        "complete": 0
+      },
+      "blockers": [
+        "Phase 5 exit gate not passed"
+      ],
+      "optional": true
+    },
+    "phase_8": {
+      "name": "Publication",
+      "status": "BLOCKED",
+      "entry_gate_passed": false,
+      "exit_gate_passed": false,
+      "completion_percentage": 0,
+      "deliverables": {
+        "total": 8,
+        "complete": 0
+      },
+      "blockers": [
+        "Phase 5 exit gate not passed"
+      ]
+    },
+    "phase_9": {
+      "name": "Marketing",
+      "status": "BLOCKED",
+      "entry_gate_passed": false,
+      "exit_gate_passed": false,
+      "completion_percentage": 0,
+      "deliverables": {
+        "total": 10,
+        "complete": 0
+      },
+      "blockers": [
+        "Phase 8 entry criteria not met"
+      ]
+    }
+  },
+  "stage_gates": {
+    "total_gates": 45,
+    "entry_gates": {
+      "total": 9,
+      "passed": 0,
+      "pending": 9,
+      "blocked": 0
+    },
+    "exit_gates": {
+      "total": 9,
+      "passed": 0,
+      "pending": 9,
+      "blocked": 0
+    },
+    "quality_gates": {
+      "total": 27,
+      "passed": 0,
+      "pending": 27,
+      "blocked": 0
+    },
+    "validation_gates": {
+      "total": 6,
+      "passed": 0,
+      "pending": 6,
+      "blocked": 0
+    },
+    "waivers": 0,
+    "pass_rate": 0
+  },
+  "quality_summary": {
+    "text_production": {
+      "total_word_count": 0,
+      "target_word_count": 85000,
+      "chapters_complete": 0,
+      "chapters_total": 21,
+      "avg_validation_score": null,
+      "validation_threshold": 4.5,
+      "chapters_flagged": 0
+    }
+  },
+  "example_data": {
+    "note": "The following is example data from a completed project (SYNTHAI) to demonstrate how metrics appear when populated",
+    "synthai_example": {
+      "pipeline": {
+        "overall_completion": 86,
+        "current_phase": 5,
+        "current_phase_name": "Text Production",
+        "phases_complete": 5,
+        "phases_remaining": 4,
+        "critical_path_blocker": "Phase 5 exit gate: Copyedit and formatting pending"
+      },
+      "phase_5_metrics": {
+        "status": "PENDING_EXIT",
+        "entry_gate_passed": true,
+        "exit_gate_passed": false,
+        "completion_percentage": 95,
+        "exit_gate_status": {
+          "total_criteria": 6,
+          "passed": 4,
+          "pending": 2,
+          "percentage": 67
+        },
+        "deliverables": {
+          "total": 21,
+          "complete": 21,
+          "percentage": 100
+        },
+        "quality_metrics": {
+          "avg_nq_score": 4.86,
+          "threshold": 4.5,
+          "status": "PASS",
+          "total_word_count": 87234,
+          "chapters_validated": 21,
+          "chapters_flagged": 0
+        },
+        "blockers": [
+          "Final copyedit not complete (2-4 hours, MANUAL)",
+          "Manuscript formatting for narration (1-2 hours, MANUAL)"
+        ]
+      },
+      "stage_gates_summary": {
+        "total_gates": 45,
+        "passed": 32,
+        "pending": 11,
+        "waived": 2,
+        "percentage_complete": 71
+      }
+    }
+  }
+}

@@ -75,9 +75,7 @@ For each architecture document:
 
 ## 📝 Example Architecture Documents
 
-### For Business Fiction (like SYNTHAI)
 - Architecture-Framework-Specs.md (100K words)
-  - SYNTHAI framework components
   - Five practices specification
   - Transformation levels
 - Architecture-Organizational-Dynamics.md (40K words)

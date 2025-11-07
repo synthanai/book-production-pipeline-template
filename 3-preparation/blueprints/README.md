@@ -82,7 +82,6 @@ For each blueprint:
 
 ## 📝 Example Blueprints
 
-### For Business Fiction (like SYNTHAI)
 - **Blueprint-Act-I.md** (40K words)
   - Chapters 1-6
   - Organizational crisis establishment

@@ -82,7 +82,6 @@ cd operations/pipeline/scripts
 
 **How to verify:** Manually check or receive copyeditor's report
 
-**SYNTHAI Example (BLOCKER):**
 - Status: ⏸ Pending (2-4 hours manual work)
 - This criterion is currently blocking Phase 5 exit
 
@@ -101,7 +100,6 @@ cd operations/pipeline/scripts
 
 **How to verify:** Review formatted manuscript file
 
-**SYNTHAI Example (BLOCKER):**
 - Status: ⏸ Pending (1-2 hours manual work)
 - Need: Add chapter markers for narration
 - This criterion is currently blocking Phase 5 exit
@@ -120,7 +118,6 @@ cd operations/pipeline/scripts
 
 ## 🚧 Current Blockers
 
-**Example (SYNTHAI Project Status):**
 
 **Passed Criteria (4/6):**
 - ✅ All 21 chapters written (100%)

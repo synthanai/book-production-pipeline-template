@@ -161,7 +161,6 @@ When Phase 5 exit gate is passed:
 
 ---
 
-## 📊 Example: SYNTHAI Project Validation
 
 **Phase 5 (Text Production) Validation Summary:**
 

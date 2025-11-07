@@ -193,7 +193,6 @@ A **stage-gate** is a checkpoint in the production pipeline where specific crite
 - Validation failures
 - Manuscript formatting issues
 
-**Example (SYNTHAI):**
 - 21/21 chapters written ✅
 - Pass 2 NQ validation: 4.86/5.0 ✅
 - Copyedit: ⏸ Pending (2-4 hours)
@@ -346,7 +345,6 @@ A **stage-gate** is a checkpoint in the production pipeline where specific crite
 
 **Estimated Time:** 40-100 hours (highly variable)
 
-**Example (SYNTHAI):** ~1.4M words of preparation docs (28 master documents)
 
 ---
 
@@ -405,7 +403,6 @@ A **stage-gate** is a checkpoint in the production pipeline where specific crite
 
 **Critical Gate:** This is the most important gate - manuscript must be publication-ready
 
-**Example (SYNTHAI):**
 - ✅ 21/21 chapters written (100%)
 - ✅ 87,234 words (meets target)
 - ✅ Pass 2 NQ: 4.86/5.0 (exceeds 4.5 threshold)
@@ -637,7 +634,6 @@ Validation gates are independent quality checks performed at specific milestones
 
 **Critical Gate:** This validation is required for Phase 5 exit
 
-**Example (SYNTHAI):**
 - Average NQ score: 4.86/5.0 ✅
 - All chapters ≥ 4.0 ✅
 - Highest score: 5.0/5.0 (multiple chapters)

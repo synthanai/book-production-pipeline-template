@@ -72,7 +72,6 @@ This is the most comprehensive phase for many projects. Here you create all the 
 
 ## 📈 Typical Document Counts
 
-### Large Projects (like SYNTHAI)
 - 4 Master documents
 - 3 Architecture specs
 - 10 Writing guides

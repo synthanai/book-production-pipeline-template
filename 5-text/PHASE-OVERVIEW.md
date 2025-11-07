@@ -111,7 +111,6 @@ By the end of Phase 5, you will have:
 - Pacing is appropriate for genre/audience
 - Manuscript is indistinguishable from traditionally published books
 
-**Example (SYNTHAI):**
 - ✅ 21 chapters, 87,234 words
 - ✅ Average NQ score: 4.86/5.0
 - ✅ Zero flagged chapters

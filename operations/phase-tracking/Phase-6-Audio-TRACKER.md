@@ -112,7 +112,6 @@
 **Estimated AI Time:** 1-2 hours (preparation phase)
 
 - [ ] **Generate narration guide** [1 hour]
-  - Character voice profiles (Raj: thoughtful, measured; Maya: confident, sharp)
   - Tone and pacing guidance (professional, conversational, technical depth)
   - Difficult pronunciations (Indian names, technical terms, company names)
   - Emotional beats per chapter (where to add emphasis, where to slow down)
@@ -125,7 +124,6 @@
   - **Why helpful:** Narrator understands context for better performance
 
 - [ ] **Identify challenging pronunciations** [30 minutes]
-  - Indian names (Rajesh, Ananya, Suresh, etc.)
   - Technical terms (API, algorithmic bias, neural networks)
   - Company names (SynthAI, proper nouns)
   - Phonetic spellings for narrator
