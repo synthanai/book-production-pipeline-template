@@ -1,14 +1,34 @@
 # archive/
 
-**Purpose:** Long-term storage for old versions, deprecated files, and historical backups
+**Purpose:** Project-wide archive for cross-phase materials and major restructuring
 
 ---
 
 ## 📋 Overview
 
-This directory serves as the permanent repository for files that are no longer actively used but need to be preserved for reference, historical record, or potential future use.
+This is the **root archive** for project-wide archival needs. Each pipeline phase also has its own `archive/` subdirectory for phase-specific archiving.
 
-**Archive principle:** Out of sight, but not deleted.
+### Archive Strategy
+
+**Phase-specific archives (Recommended for most files):**
+- `1-ideation/archive/` - Old concept docs
+- `2-research/archive/` - Outdated research
+- `3-preparation/archive/` - Old prep doc versions
+- `4-utilities/archive/` - Deprecated tools/templates
+- `5-text/archive/` - Old chapter versions
+- `6-audio/archive/` - Previous audio versions
+- `7-video/archive/` - Old video edits
+- `8-publication/archive/` - Previous publication files
+- `9-marketing/archive/` - Old marketing materials
+
+**Root archive (This directory - for special cases):**
+- Major project restructuring backups
+- Complete directory snapshots
+- Cross-phase historical backups
+- Entire phase archives (when phase is complete)
+- Large-scale cleanup operations
+
+**Rule of thumb:** Use phase-specific archives for normal work. Use root archive for major project events.
 
 ---
 
